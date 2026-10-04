@@ -1,0 +1,6 @@
+{
+  "name": "Rabeya Hatchery - রাবেয়া হ্যাচারি",
+  "description": "মানসম্মত হাঁস ও মুরগির বাচ্চার বিশ্বস্ত ঠিকানা। খাকি ক্যাম্বেল, বেইজিং, পেকিন, সোনালি, ব্রয়লার ও দেশি জাতের বাচ্চার পাইকারি ও খুচরা অর্ডার ও খামার পরামর্শ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
